@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/investfar-client/precache-manifest.e708b869c19b0f4a4041bd94f329873d.js"
+  "/investfar-client/precache-manifest.19c875496d1d91d0a5b6f60b7b85da6e.js"
 );
 
 self.addEventListener('message', (event) => {

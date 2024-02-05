@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b2fffb0814ade959a35cedf809c6fcc1",
+    "revision": "82b293424c43811d2b682dfdc78a349b",
     "url": "/investfar-client/index.html"
   },
   {
